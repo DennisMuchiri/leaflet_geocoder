@@ -27,12 +27,15 @@
     "rollup-plugin-uglify": "^1.0.1",
     "watch": "^0.19.2"
   },
-  "homepage": "https://github.com/jgravois/bootstrap-geocoder",
-  "jsnext:main": "src/GeosearchInput.js",
+  "homepage": "https://github.com/DennisMuchiri/leaflet_geocoder",
   "jspm": {
     "registry": "npm",
     "format": "es6",
     "main": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:DennisMuchiri/leaflet_geocoder.git"
   },
   "author": "dennis",
   "license": "ISC"
